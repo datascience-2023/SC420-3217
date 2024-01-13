@@ -1,0 +1,21 @@
+﻿Anaconda:
+https://www.anaconda.com/download/
+
+Git:
+https://git-scm.com/download/win
+
+Репозиторий учебных материалов:
+
+git clone https://github.com/datascience-2023/SC420-3217
+
+Google Colaboratory:
+https://colab.research.google.com/
+
+Kaggle:
+https://www.kaggle.com/
+
+DeepNote:
+https://deepnote.com/
+
+brunoyam.test@gmail.com
+ZG>'h5Sf
