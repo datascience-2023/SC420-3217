@@ -1,4 +1,9 @@
-﻿Anaconda:
+﻿Практика 1:
+
+https://deepnote.com/workspace/anakram-37f39f9b-b2d8-4337-a827-0e760bf9400a/project/brunoyamtests-Untitled-project-afd7ba45-0953-43a7-bb16-13dd1888e66b/notebook/Notebook%201-e738ff217bae4022adc2108de381f60d
+
+
+Anaconda:
 https://www.anaconda.com/download/
 
 Git:
@@ -19,3 +24,15 @@ https://deepnote.com/
 
 brunoyam.test@gmail.com
 ZG>'h5Sf
+
+LeetCode:
+https://leetcode.com/
+
+Checkio:
+https://py.checkio.org/
+
+Timus:
+https://acm.timus.ru/
+
+IT Resume:
+https://itresume.ru/
