@@ -6,6 +6,15 @@ https://deepnote.com/workspace/anakram-37f39f9b-b2d8-4337-a827-0e760bf9400a/proj
 Строки в python на русском:
 https://pythonru.com/osnovy/stroki-python
 
+Справка по встроенным типам python:
+https://docs.python.org/3/library/stdtypes.html
+
+Форматы строк:
+https://docs.python.org/3/library/string.html#formatspec
+
+Itertools:
+https://docs.python.org/3/library/itertools.html
+
 Anaconda:
 https://www.anaconda.com/download/
 
@@ -39,3 +48,23 @@ https://acm.timus.ru/
 
 IT Resume:
 https://itresume.ru/
+
+Stratascratch:
+https://platform.stratascratch.com/
+
+----------------------------------------------------
+
+Шпаргалка по Pandas:
+https://pythonpip.ru/pandas/kratkoe-rukovodstvo-po-osnovam-pandas
+
+Шпаргалка по Markdown:
+https://notebook.community/tschinz/iPython_Workspace/00_Admin/CheatSheet/Markdown%20CheatSheet
+
+Докуентация Pandas:
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+
+Хиnрости Pandas:
+https://www.dataschool.io/python-pandas-tips-and-tricks/
+
+Много датасетов в формате CSV:
+https://github.com/owid/owid-datasets/tree/master/datasets
