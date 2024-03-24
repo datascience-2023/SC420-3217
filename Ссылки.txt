@@ -1,4 +1,18 @@
-﻿Практика 1:
+Установка pytorch
+https://pytorch.org/get-started/locally/
+
+Albumentations:
+https://albumentations.ai/docs/getting_started/installation/
+
+Урок 13:
+
+https://colab.research.google.com/drive/1AY9oWritLdzzbWquYg4Ld1QyTQAhMQWV?usp=sharing
+
+Урок 14
+
+https://colab.research.google.com/drive/1Wp_QUduJdCvuBXLDZtOvUBPQMsX7EdBC?usp=sharing
+
+Практика 1:
 
 https://deepnote.com/workspace/anakram-37f39f9b-b2d8-4337-a827-0e760bf9400a/project/brunoyamtests-Untitled-project-afd7ba45-0953-43a7-bb16-13dd1888e66b/notebook/Notebook%201-e738ff217bae4022adc2108de381f60d
 
